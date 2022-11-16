@@ -1,0 +1,126 @@
+﻿@using Aplication.ViewModel;
+@model List<Aplication.ViewModel.SavePokemonView>
+
+<div id="pokedex">
+    
+    <div id="left">
+    <div id="logo"></div>
+    <div id="bg_curve1_left"></div>
+    <div id="bg_curve2_left"></div>
+    <div id="curve1_left">
+      <div id="buttonGlass">
+        <div id="reflect"> </div>
+      </div>
+      <div id="miniButtonGlass1"></div>
+      <div id="miniButtonGlass2"></div>
+      <div id="miniButtonGlass3"></div>
+    </div>
+    <div id="curve2_left">
+      <div id="junction">
+        <div id="junction1"></div>
+        <div id="junction2"></div>
+      </div>
+    </div>
+    <div id="screen">
+      <div id="topPicture">
+        <div id="buttontopPicture1"></div>
+        <div id="buttontopPicture2"></div>
+      </div>
+      <div id="picture" class="contenedor">
+        @foreach(Aplication.ViewModel.SavePokemonView item in Model)
+                    {
+
+                        <div class="contenedor">
+                            <div class="mostrarPokemon">
+                              <div class="imagenLista"><img src="@item.ImagenUrl"/></div>
+                              
+                              <div class="Datos">
+                                  <strong>Nombre:</strong> @item.name<br/>
+                                  <strong>Tipo primario:</strong> @item.Type1<br/>
+                                  <strong>Tipo Secundario:</strong> @item.Type2<br/>
+                                  <strong>Region:</strong> @item.NombreRegion<br/>
+                              </div>
+                                <small>
+                                    <a asp-controller="Pokemon" asp-action="Actualizar" asp-route-id="@item.id" class="button-e">Editar</a>
+                                </small>
+                                <small>
+                                    <a asp-controller="Pokemon" asp-action="DeletePokemon" asp-route-id="@item.id" class="button-1">Borrar</a>
+                                </small>
+                            </div>
+                        </div>
+                    }
+      </div>
+      
+      <div id="buttonbottomPicture"></div>
+      <div id="speakers">
+        <div class="sp"></div>
+        <div class="sp"></div>
+        <div class="sp"></div>
+        <div class="sp"></div>
+      </div>
+    </div>
+    <div id="bigbluebutton"></div>
+    <div id="barbutton1"></div>
+    <div id="barbutton2"></div>
+    <div id="cross">
+      <div id="leftcross">
+          <a asp-controller="pokedex" asp-action="pokedex" class="aC">ant</a>
+        <div id="leftT"></div>
+      </div>
+      <div id="topcross">
+          <a asp-controller="pokedex" asp-action="pokedex" class="aC">sig</a>
+        <div id="upT"></div>
+      </div>
+      <div id="rightcross">
+          <a asp-controller="pokedex" asp-action="pokedex" class="aC">sig</a>
+        <div id="rightT"></div>
+      </div>
+      <div id="midcross">
+        <div id="midCircle"></div>
+      </div>
+      <div id="botcross">
+          <a asp-controller="pokedex" asp-action="pokedex" class="aC">ant</a>
+        <div id="downT"></div>
+      </div>
+    </div>
+  </div>
+  <div id="right">
+    <div id="stats">
+      
+    </div>
+    <div id="blueButtons1">
+      <div class="blueButton">
+          <a asp-controller="pokedex" asp-action="pokedex">Home</a>
+      </div>
+      <div class="blueButton">
+          <a asp-controller="Pokemon" asp-action="PokemonesLista">Pokemones</a></div>
+      <div class="blueButton">
+          <a asp-controller="Region" asp-action="Regiones">Regiones</a>
+      </div>
+      <div class="blueButton"><a asp-controller="Tipo" asp-action="Tipo">Tipos</a></div>
+      <div class="blueButton"></div>
+    </div>
+    <div id="blueButtons2">
+      <div class="blueButton"></div>
+      <div class="blueButton"><a asp-controller="Pokemon" asp-action="Crear">+</a></div>
+      <div class="blueButton"></div>
+      <div class="blueButton"></div>
+      <div class="blueButton"></div>
+    </div>
+    <div id="miniButtonGlass4"></div>
+    <div id="miniButtonGlass5"></div>
+    <div id="barbutton3"></div>
+    <div id="barbutton4"></div>
+    <div id="yellowBox1">
+        <select asp-items="@(new SelectList(ViewBag.tipos,"id","NameTipos"))" class="filtro" >
+          <option value="">Tipos</option>
+        </select>
+    </div>
+    <div id="yellowBox2">
+    </div>
+    <div id="bg_curve1_right"></div>
+    <div id="bg_curve2_right"></div>
+    <div id="curve1_right"></div>
+    <div id="curve2_right"></div>
+  </div>
+</div>

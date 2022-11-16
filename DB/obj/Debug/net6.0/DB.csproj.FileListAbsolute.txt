@@ -1,0 +1,28 @@
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\bin\Debug\net6.0\DB.deps.json
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\bin\Debug\net6.0\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\bin\Debug\net6.0\ref\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\bin\Debug\net6.0\DB.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.AssemblyInfo.cs
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\ref\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\DB\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\bin\Debug\net6.0\DB.deps.json
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\bin\Debug\net6.0\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\bin\Debug\net6.0\ref\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\bin\Debug\net6.0\DB.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.AssemblyInfo.cs
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\ref\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\DB\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache

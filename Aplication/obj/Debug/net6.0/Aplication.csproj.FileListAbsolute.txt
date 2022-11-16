@@ -1,0 +1,30 @@
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\bin\Debug\net6.0\Aplication.deps.json
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\bin\Debug\net6.0\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\bin\Debug\net6.0\ref\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\bin\Debug\net6.0\Aplication.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\bin\Debug\net6.0\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\bin\Debug\net6.0\DB.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.AssemblyInfo.cs
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.csproj.CopyComplete
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\ref\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Tarea 1\Controladores y vistas\Aplication\obj\Debug\net6.0\Aplication.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\bin\Debug\net6.0\Aplication.deps.json
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\bin\Debug\net6.0\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\bin\Debug\net6.0\ref\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\bin\Debug\net6.0\Aplication.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\bin\Debug\net6.0\DB.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\bin\Debug\net6.0\DB.pdb
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.AssemblyInfo.cs
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.csproj.CopyComplete
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\ref\Aplication.dll
+C:\Users\Sebastian\Documents\ITLA\7to periodo\Programacion III\Pokedex\Aplication\obj\Debug\net6.0\Aplication.pdb

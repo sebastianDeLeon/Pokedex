@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokedex CRUD", "Pokedex CRUD.csproj", "{B01FD92B-E93D-4F91-884F-B149EE19DFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "..\DB\DB.csproj", "{3DF22FBC-D3BD-438F-AB3A-9725CA71FD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication", "..\Aplication\Aplication.csproj", "{C0EDA786-C93C-463B-97CD-18D3002212BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01FD92B-E93D-4F91-884F-B149EE19DFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01FD92B-E93D-4F91-884F-B149EE19DFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01FD92B-E93D-4F91-884F-B149EE19DFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01FD92B-E93D-4F91-884F-B149EE19DFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF22FBC-D3BD-438F-AB3A-9725CA71FD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF22FBC-D3BD-438F-AB3A-9725CA71FD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF22FBC-D3BD-438F-AB3A-9725CA71FD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF22FBC-D3BD-438F-AB3A-9725CA71FD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EDA786-C93C-463B-97CD-18D3002212BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EDA786-C93C-463B-97CD-18D3002212BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EDA786-C93C-463B-97CD-18D3002212BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EDA786-C93C-463B-97CD-18D3002212BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BBE1C7-5D70-49AB-96A2-D64F82F52871}
+	EndGlobalSection
+EndGlobal
